@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Prototype for fledgling inventory system",
   "main": "index.js",
-  "dependencies": {
-    "uikit": "^3.0.0-beta.25"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
